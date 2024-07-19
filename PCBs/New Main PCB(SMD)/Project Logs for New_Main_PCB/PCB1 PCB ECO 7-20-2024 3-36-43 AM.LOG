@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=P1 Old Footprint=61300611121 New Footprint=61300611121
+Change Component Footprint: Designator=P2 Old Footprint=61300611121 New Footprint=61300611121
+Change Component Footprint: Designator=J1 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J2 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J5 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J6 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J13 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J4 Old Footprint=FP-M20-9990445-MFG New Footprint=FP-M20-9990445-MFG
+Added Component: Designator=J7(2002111100006T4LF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "20021111-00006T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/20021111-00006t4lf/amphenol-fci?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/20021111.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "20021111-00006T4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CX2016DB16000D0FLNCC
+Added Pin To Net: NetName=MOSI Pin=J7-1
+Added Pin To Net: NetName=RESET Pin=J7-2
+Added Pin To Net: NetName=Trig3 Pin=J7-3
+Added Pin To Net: NetName=Echo3 Pin=J7-4
+Added Pin To Net: NetName=+5V Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Added Member To Class: ClassName=Main Member=Component J7 20021111-00006T4LF
+Add Class Member: Failed to add class member : Component Y1 CX2016DB16000D0FLNCC
