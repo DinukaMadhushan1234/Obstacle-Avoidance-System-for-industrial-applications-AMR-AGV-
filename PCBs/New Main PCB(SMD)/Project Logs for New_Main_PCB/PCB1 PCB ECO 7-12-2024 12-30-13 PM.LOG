@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=P1 Old Footprint=61300611121 New Footprint=61300611121
+Change Component Footprint: Designator=P2 Old Footprint=61300611121 New Footprint=61300611121
+Change Component Footprint: Designator=J1 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J3 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=J5 Old Footprint=FP-M20-9990445-MFG New Footprint=FP-M20-9990445-MFG
+Added Component: Designator=J9(691214110002)
+Add component (AddParameter): Name = "Color"; Value = "Blue, Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Brass, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "18818288"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5052mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Brass, Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "24AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "16AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "24AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=5V Pin=J9-2
+Added Member To Class: ClassName=Main Member=Component J9 691214110002
+Added Room: Name=Main

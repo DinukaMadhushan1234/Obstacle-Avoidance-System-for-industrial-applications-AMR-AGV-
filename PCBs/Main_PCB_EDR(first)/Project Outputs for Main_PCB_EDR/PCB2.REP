@@ -1,0 +1,351 @@
+*************************************************************
+FileName = PCB2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : PCB2.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB2.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : PCB2.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D11
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : PCB2.GM4
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB2.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB2.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D51
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D50
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB2.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB2.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB2.GM
+
+
+Used DCodes :
+    D66
+*************************************************************
+

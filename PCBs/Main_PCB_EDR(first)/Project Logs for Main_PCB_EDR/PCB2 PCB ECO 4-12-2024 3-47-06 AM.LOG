@@ -1,0 +1,12 @@
+Added Component: Designator=U2(DPAK228P972X240-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L78M05ACDT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252-3 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L78M05ACDT-TR/STMicroelectronics/view-part/274303/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Member To Class: ClassName=PowerSupply Member=Component U2 L78M05ACDT-TR

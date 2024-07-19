@@ -1,0 +1,12 @@
+Added Component: Designator=A_outputs(JST_B4B-EH-A)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-EH-A/JST/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-EH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-EH-A/JST/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=A_outputs-1
+Added Pin To Net: NetName=A2 Pin=A_outputs-2
+Added Pin To Net: NetName=A3 Pin=A_outputs-3
+Added Pin To Net: NetName=A4 Pin=A_outputs-4
+Added Member To Class: ClassName=Hierarchy Member=Component A_outputs B4B-EH-A

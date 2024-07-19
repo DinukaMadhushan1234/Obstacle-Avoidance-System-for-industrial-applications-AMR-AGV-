@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=switch NewDesignator=switch1
+Add Component: Footprint Not Found LEDC2012X80N
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC2_1
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Add Class Member: Failed to add class member : Component LED1 HSMH-H170

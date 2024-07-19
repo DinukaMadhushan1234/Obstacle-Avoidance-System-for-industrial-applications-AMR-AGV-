@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=Power_Outputs-2
+Removed Pin From Net: NetName=+5 Pin=ultrasonic1_Outputs-1
+Removed Pin From Net: NetName=NetIC_24 Pin=ultrasonic1_Outputs-2
+Removed Pin From Net: NetName=GND Pin=ultrasonic1_Outputs-4
+Removed Pin From Net: NetName=+5 Pin=ultrasonic2_Outputs-1
+Removed Pin From Net: NetName=NetIC_26 Pin=ultrasonic2_Outputs-2
+Removed Pin From Net: NetName=GND Pin=ultrasonic2_Outputs-4
+Removed Pin From Net: NetName=+5 Pin=ultrasonic3_Outputs-1
+Removed Pin From Net: NetName=NetIC_31 Pin=ultrasonic3_Outputs-2
+Removed Pin From Net: NetName=GND Pin=ultrasonic3_Outputs-4
+Change Component Designator: OldDesignator=A/D_Inputs NewDesignator=A/D
+Change Component Designator: OldDesignator=current sensor 1_Inputs NewDesignator=current sensor 1
+Change Component Designator: OldDesignator=current sensor 2_Inputs NewDesignator=current sensor 2
+Change Component Designator: OldDesignator=D_Inputs NewDesignator=D
+Change Component Designator: OldDesignator=H-Bridge1_Inputs NewDesignator=H-Bridge1
+Change Component Designator: OldDesignator=H-Bridge2_Inputs NewDesignator=H-Bridge2
+Change Component Designator: OldDesignator=Power_Inputs NewDesignator=Power
+Change Component Designator: OldDesignator=ultrasonic1_Inputs NewDesignator=ultrasonic1
+Change Component Designator: OldDesignator=ultrasonic2_Inputs NewDesignator=ultrasonic2
+Change Component Designator: OldDesignator=ultrasonic3_Inputs NewDesignator=ultrasonic3
+Added Pin To Net: NetName=+5 Pin=ultrasonic1-1
+Added Pin To Net: NetName=NetIC_24 Pin=ultrasonic1-2
+Added Pin To Net: NetName=+5 Pin=ultrasonic2-1
+Added Pin To Net: NetName=NetIC_26 Pin=ultrasonic2-2
+Added Pin To Net: NetName=+5 Pin=ultrasonic3-1
+Added Pin To Net: NetName=NetIC_31 Pin=ultrasonic3-2
+Change Net Name : Old Net Name=Netcurrent sensor 1_Inputs_1 New Net Name=Netcurrent sensor 1_1
+Change Net Name : Old Net Name=Netcurrent sensor 1_Inputs_2 New Net Name=Netcurrent sensor 1_2
+Change Net Name : Old Net Name=Netcurrent sensor 1_Inputs_3 New Net Name=Netcurrent sensor 1_3
+Change Net Name : Old Net Name=Netcurrent sensor 2_Inputs_3 New Net Name=Netcurrent sensor 2_3
+Added Pin To Net: NetName=NetA/D_1 Pin=A/D-1
+Added Pin To Net: NetName=NetA/D_1 Pin=IC-22
+Added Net: Name=NetA/D_1
+Added Pin To Net: NetName=NetA/D_2 Pin=A/D-2
+Added Pin To Net: NetName=NetA/D_2 Pin=IC-19
+Added Net: Name=NetA/D_2
+Added Pin To Net: NetName=NetD_1 Pin=D-1
+Added Pin To Net: NetName=NetD_1 Pin=IC-13
+Added Net: Name=NetD_1
+Added Pin To Net: NetName=NetD_2 Pin=D-2
+Added Pin To Net: NetName=NetD_2 Pin=IC-14
+Added Net: Name=NetD_2
+Added Pin To Net: NetName=NetD_3 Pin=D-3
+Added Pin To Net: NetName=NetD_3 Pin=IC-32
+Added Net: Name=NetD_3
+Added Pin To Net: NetName=NetH-Bridge1_1 Pin=H-Bridge1-1
+Added Pin To Net: NetName=NetH-Bridge1_1 Pin=IC-1
+Added Net: Name=NetH-Bridge1_1
+Added Pin To Net: NetName=NetH-Bridge1_2 Pin=H-Bridge1-2
+Added Pin To Net: NetName=NetH-Bridge1_2 Pin=IC-2
+Added Net: Name=NetH-Bridge1_2
+Added Pin To Net: NetName=NetH-Bridge2_1 Pin=H-Bridge2-1
+Added Pin To Net: NetName=NetH-Bridge2_1 Pin=IC-9
+Added Net: Name=NetH-Bridge2_1
+Added Pin To Net: NetName=NetH-Bridge2_2 Pin=H-Bridge2-2
+Added Pin To Net: NetName=NetH-Bridge2_2 Pin=IC-10
+Added Net: Name=NetH-Bridge2_2

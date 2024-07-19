@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Main Member=C1
+Change Footprint: Footprint Not Found RESC3216X70N
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=ERA-8AEB103V
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C5D5E487-6931-473E-B4D2-83E262FA381E New ItemGUID= Old RevisionGUID=CD0B4C78-1A4E-4A1C-87B8-DC174D864CB0 New RevisionGUID=
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-RC1206-MFG"; UniqueID = "\VWSOTZZI\AOCVVMAR" ("\VWSOTZZI\AOCVVMAR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ERA-8AEB103V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/era8aeb103v/panasonic?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-8AEB103V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-ERA-8AEB103V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-8AEB103V?qs=Ojoo2rCVP9QscDrGu5R0Gw%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found RESC3216X70N
+Add Pin To Net: Unknown Pin: Pin LED-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Net: Name=NetLED_2
+Added Member To Class: ClassName=PowerSupply Member=Component C2 GRM31C5C2A104JA01L
+Added Member To Class: ClassName=Main Member=Component C3 1206GC102KAT1A
+Added Member To Class: ClassName=Main Member=Component C4 10nF
+Add Class Member: Failed to add class member : Component LED 150080RS75000
+Add Class Member: Failed to add class member : Component R2 ERA-8AEB103V

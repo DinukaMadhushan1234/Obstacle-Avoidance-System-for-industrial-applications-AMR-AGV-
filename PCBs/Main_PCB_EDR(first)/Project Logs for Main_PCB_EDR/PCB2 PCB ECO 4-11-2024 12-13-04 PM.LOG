@@ -1,0 +1,43 @@
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found XTAL_ABM11-16.000MHz-12-N1G-T
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-4
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Add Pin To Net: Unknown Pin: Pin Y?-3
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Added Member To Class: ClassName=Main Member=Component 1uF 1206GC102KAT1A
+Add Class Member: Failed to add class member : Component ultrasonic1_Inputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic1_Outputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic2_Inputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic2_Outputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic3_Inputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic3_Outputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component Y? ABM11-16.000MHz-12-N1G-T

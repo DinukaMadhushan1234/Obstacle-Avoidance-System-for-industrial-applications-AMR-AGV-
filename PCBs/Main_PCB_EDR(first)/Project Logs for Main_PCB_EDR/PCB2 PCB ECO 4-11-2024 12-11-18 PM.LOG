@@ -1,0 +1,65 @@
+Added Component: Designator=22pF(1)(C1206)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1009_C0G_HV_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1206C220JGGACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C1206C220JGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C1206C220JGGACTU?qs=bISZhnDGhxtrVzrFMq60vg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=22pF(2)(C1206)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1009_C0G_HV_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1206C220JGGACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C1206C220JGG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C1206C220JGGACTU?qs=bISZhnDGhxtrVzrFMq60vg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found XTAL_ABM11-16.000MHz-12-N1G-T
+Added Pin To Net: NetName=GND Pin=22pF(1)-1
+Added Pin To Net: NetName=Net22pF(1)_2 Pin=22pF(1)-2
+Added Pin To Net: NetName=GND Pin=22pF(2)-1
+Added Pin To Net: NetName=Net22pF(2)_2 Pin=22pF(2)-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-4
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Add Pin To Net: Unknown Pin: Pin Y?-3
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Added Member To Class: ClassName=Main Member=Component 1uF 1206GC102KAT1A
+Added Member To Class: ClassName=Main Member=Component 22pF(1) C1206C220JGGACTU
+Added Member To Class: ClassName=Main Member=Component 22pF(2) C1206C220JGGACTU
+Add Class Member: Failed to add class member : Component ultrasonic1_Inputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic1_Outputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic2_Inputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic2_Outputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic3_Inputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic3_Outputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component Y? ABM11-16.000MHz-12-N1G-T

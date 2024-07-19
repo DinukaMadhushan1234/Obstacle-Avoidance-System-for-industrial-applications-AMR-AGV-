@@ -1,0 +1,24 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Footprint: Footprint Not Found CAPC3216X190N
+Change Managed Component Library Link: Already changed
+Change Managed Component Library Link: Already changed
+Change component parameters: Designator = "C4" ("C4"); Footprint = "AVX-1206-2_L"; UniqueID = "\XUAJEVRA\AQXLUROY" ("\XUAJEVRA\AQXLUROY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C1206C334K1RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1206c334k1recauto/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1206C334K1RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C1206C334K1RECAUT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C1206C334K1RECAUTO?qs=MLItCLRbWsx8dVF2h1wzKg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "AVX-1206-2_L"; UniqueID = "\XUAJEVRA\MYSOARGU" ("\XUAJEVRA\MYSOARGU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://ds.yuden.co.jp/TYCOMPAS/ap/specSheet?pn=MCJCU31LBB7104KTPA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCJCU31LBB7104KTPA01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "963-MCJCU31LBB7104KT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/MCJCU31LBB7104KTPA01?qs=tlsG%2FOw5FFgiqRcQEEePOw%3D%3D"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC4_1" already exists

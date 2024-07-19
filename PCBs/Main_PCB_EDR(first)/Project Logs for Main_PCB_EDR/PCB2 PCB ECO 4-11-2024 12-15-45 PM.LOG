@@ -1,0 +1,105 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC
+Added Component: Designator=16MHz(XTAL_ABM11-16.000MHz-12-N1G-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Abracon LLC'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABM11-16.000MHz-12-N1G-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ultrasonic1_Inputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ultrasonic1_Outputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ultrasonic2_Inputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ultrasonic2_Outputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ultrasonic3_Inputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ultrasonic3_Outputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=16MHz-2
+Added Pin To Net: NetName=GND Pin=16MHz-4
+Added Pin To Net: NetName=Netultrasonic1_Inputs_1 Pin=ultrasonic1_Inputs-1
+Added Pin To Net: NetName=Netultrasonic1_Inputs_2 Pin=ultrasonic1_Inputs-2
+Added Pin To Net: NetName=GND Pin=ultrasonic1_Inputs-4
+Added Pin To Net: NetName=+5 Pin=ultrasonic1_Outputs-1
+Added Pin To Net: NetName=Netultrasonic1_Outputs_3 Pin=ultrasonic1_Outputs-3
+Added Pin To Net: NetName=GND Pin=ultrasonic1_Outputs-4
+Added Pin To Net: NetName=Netultrasonic1_Inputs_1 Pin=ultrasonic2_Inputs-1
+Added Pin To Net: NetName=Netultrasonic2_Inputs_2 Pin=ultrasonic2_Inputs-2
+Added Pin To Net: NetName=GND Pin=ultrasonic2_Inputs-4
+Added Pin To Net: NetName=+5 Pin=ultrasonic2_Outputs-1
+Added Pin To Net: NetName=Netultrasonic2_Outputs_3 Pin=ultrasonic2_Outputs-3
+Added Pin To Net: NetName=GND Pin=ultrasonic2_Outputs-4
+Added Pin To Net: NetName=Netultrasonic1_Inputs_1 Pin=ultrasonic3_Inputs-1
+Added Pin To Net: NetName=Netultrasonic3_Inputs_2 Pin=ultrasonic3_Inputs-2
+Added Pin To Net: NetName=GND Pin=ultrasonic3_Inputs-4
+Added Pin To Net: NetName=+5 Pin=ultrasonic3_Outputs-1
+Added Pin To Net: NetName=Netultrasonic3_Outputs_3 Pin=ultrasonic3_Outputs-3
+Added Pin To Net: NetName=GND Pin=ultrasonic3_Outputs-4
+Change Net Name : Old Net Name=NetIC?_29 New Net Name=NetIC_29
+Added Pin To Net: NetName=Net16MHz_1 Pin=16MHz-1
+Added Pin To Net: NetName=Net16MHz_1 Pin=22pF(1)-2
+Added Pin To Net: NetName=Net16MHz_1 Pin=IC-7
+Added Net: Name=Net16MHz_1
+Added Pin To Net: NetName=Net16MHz_3 Pin=16MHz-3
+Added Pin To Net: NetName=Net16MHz_3 Pin=22pF(2)-2
+Added Pin To Net: NetName=Net16MHz_3 Pin=IC-8
+Added Net: Name=Net16MHz_3
+Added Pin To Net: NetName=NetIC_23 Pin=IC-23
+Added Pin To Net: NetName=NetIC_23 Pin=ultrasonic1_Inputs-3
+Added Net: Name=NetIC_23
+Added Pin To Net: NetName=NetIC_24 Pin=IC-24
+Added Pin To Net: NetName=NetIC_24 Pin=ultrasonic1_Outputs-2
+Added Net: Name=NetIC_24
+Added Pin To Net: NetName=NetIC_25 Pin=IC-25
+Added Pin To Net: NetName=NetIC_25 Pin=ultrasonic2_Inputs-3
+Added Net: Name=NetIC_25
+Added Pin To Net: NetName=NetIC_26 Pin=IC-26
+Added Pin To Net: NetName=NetIC_26 Pin=ultrasonic2_Outputs-2
+Added Net: Name=NetIC_26
+Added Pin To Net: NetName=NetIC_30 Pin=IC-30
+Added Pin To Net: NetName=NetIC_30 Pin=ultrasonic3_Inputs-3
+Added Net: Name=NetIC_30
+Added Pin To Net: NetName=NetIC_31 Pin=IC-31
+Added Pin To Net: NetName=NetIC_31 Pin=ultrasonic3_Outputs-2
+Added Net: Name=NetIC_31
+Added Member To Class: ClassName=Main Member=Component 1uF 1206GC102KAT1A
+Added Member To Class: ClassName=Main Member=Component 16MHz ABM11-16.000MHz-12-N1G-T
+Added Member To Class: ClassName=Inputs Member=Component ultrasonic1_Inputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Outputs Member=Component ultrasonic1_Outputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Inputs Member=Component ultrasonic2_Inputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Outputs Member=Component ultrasonic2_Outputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Inputs Member=Component ultrasonic3_Inputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Outputs Member=Component ultrasonic3_Outputs (ultrasonic3) B4B-XH-A(LF)(SN)

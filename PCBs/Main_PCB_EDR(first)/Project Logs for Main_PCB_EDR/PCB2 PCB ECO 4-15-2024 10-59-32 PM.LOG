@@ -1,0 +1,9 @@
+Change Footprint: Footprint Not Found RESC3216X70N
+Add Component: Footprint Not Found LEDC2012X80N
+Add Component: Footprint Not Found RESC3216X70N
+Add Pin To Net: Unknown Pin: Pin LED-1
+Add Pin To Net: Unknown Pin: Pin LED-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Class Member: Failed to add class member : Component LED 150080RS75000
+Add Class Member: Failed to add class member : Component R2 ERA-8AEB103V

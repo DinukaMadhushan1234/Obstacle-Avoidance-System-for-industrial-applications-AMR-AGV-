@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=J11-01
+Added Component: Designator=C7(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=C7-2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=rst
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=J11-01
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=Main Member=Component C7 C320C104M5U5TA

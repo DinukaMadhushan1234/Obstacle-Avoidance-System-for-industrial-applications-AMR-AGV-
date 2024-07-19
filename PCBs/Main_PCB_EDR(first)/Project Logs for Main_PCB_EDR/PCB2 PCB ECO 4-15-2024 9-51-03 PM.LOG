@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Change Component Footprint: Designator=C4 Old Footprint=AVX-1206-2_L New Footprint=C1206
+Change Component Footprint: Designator=C5 Old Footprint=AVX-1206-2_L New Footprint=CAPC3216X180N
+Change Component Comment : Designator=C4 Old Comment=1206GC102KAT1A New Comment=C1206C334K1RECAUTO
+Change Component Comment : Designator=C5 Old Comment=1206GC102KAT1A New Comment=GRM31C5C2A104JA01L
+Change Component Designator: OldDesignator=PowerIn(12V) NewDesignator=Power
+Change Component Designator: OldDesignator=PowerOut(5V) NewDesignator=Power(5V)
+Change component parameters: Designator = "C5" ("C5"); Footprint = "AVX-1206-2_L"; UniqueID = "\XUAJEVRA\IEQBXIVD" ("\XUAJEVRA\IEQBXIVD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM31C5C2A104JA01L/Murata+Electronics+North+America/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM31C5C2A104JA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM31C5C2A104JA01L/Murata+Electronics+North+America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=Power-1
+Added Pin To Net: NetName=NetC4_1 Pin=U2-1
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=Inputs Member=Component Power(5V) B2B-XH-A
+Added Member To Class: ClassName=Inputs Member=Component Power B2B-XH-A

@@ -1,0 +1,5 @@
+Add Component: Footprint Not Found 5982105107F
+Add Pin To Net: Unknown Pin: Pin LED-2
+Added Pin To Net: NetName=NetLED_1 Pin=R2-1
+Added Net: Name=NetLED_1
+Add Class Member: Failed to add class member : Component LED 598-2105-107F

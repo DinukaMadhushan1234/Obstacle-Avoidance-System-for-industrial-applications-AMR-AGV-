@@ -1,0 +1,83 @@
+Added Component: Designator=12V input(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(AVX-1206-2_L)
+Added Component: Designator=C2(AVX-1206-2_L)
+Added Component: Designator=C3(AVX-1206-2_L)
+Add Component: Footprint Not Found C1206
+Add Component: Footprint Not Found CAPC3216X190N
+Added Component: Designator=current sensor 1(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=current sensor 2(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge1(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge2(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO228P972X240-3N
+Added Component: Designator=R1(FP-RC1206-MFG)
+Added Component: Designator=U1(28P3)
+Added Component: Designator=ultrasonic(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-ABM11-MFG
+Added Net: Name=5V
+Added Pin To Net: NetName=Alert Pin=current sensor 1-3
+Added Pin To Net: NetName=Alert Pin=current sensor 2-3
+Added Net: Name=Alert
+Added Pin To Net: NetName=EN1 Pin=H-Bridge1-2
+Added Net: Name=EN1
+Added Pin To Net: NetName=EN2 Pin=H-Bridge2-2
+Added Net: Name=EN2
+Added Pin To Net: NetName=GND Pin=12V input-2
+Added Pin To Net: NetName=GND Pin=ultrasonic-4
+Added Net: Name=GND
+Added Net: Name=NetC2_2
+Added Net: Name=NetC3_2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=PWM1 Pin=H-Bridge1-1
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=H-Bridge2-1
+Added Net: Name=PWM2
+Added Pin To Net: NetName=RX Pin=ultrasonic-3
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=current sensor 1-1
+Added Pin To Net: NetName=SCL Pin=current sensor 2-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=current sensor 1-2
+Added Pin To Net: NetName=SDA Pin=current sensor 2-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX Pin=ultrasonic-2
+Added Net: Name=TX
+Added Pin To Net: NetName=Vin Pin=12V input-1
+Added Pin To Net: NetName=Vin Pin=ultrasonic-1
+Added Net: Name=Vin
+Added Class: Name=Atmega

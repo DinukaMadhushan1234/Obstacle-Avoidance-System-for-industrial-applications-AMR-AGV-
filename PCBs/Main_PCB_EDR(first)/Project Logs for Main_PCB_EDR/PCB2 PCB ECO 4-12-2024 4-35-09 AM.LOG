@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=RESET Pin=J1-1
+Removed Pin From Net: NetName=MOSI Pin=J1-2
+Removed Pin From Net: NetName=MISO Pin=J1-3
+Removed Pin From Net: NetName=SCK Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=+5 Pin=J1-6
+Change Footprint: Footprint Not Found HDRV6W90P254_2X3_762X500X560P
+Change Component Comment : Designator=J1 Old Comment=Header 3X2 New Comment=90131-0763
+Change Component Designator: OldDesignator=current_sensor1 NewDesignator=current sensor 1
+Change Component Designator: OldDesignator=current_sensor2 NewDesignator=current sensor 2
+Change component parameters: Designator = "J1" ("J1"); Footprint = "879110611"; UniqueID = "\VWSOTZZI\TFOVNQTG" ("\VWSOTZZI\TFOVNQTG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/901310763_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "90131-0763"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-90131-0763"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/90131-0763?qs=KObwnG1V4zuKPiIchrbqlw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=SCK Pin=J1-3
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=RESET Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Change Net Name : Old Net Name=Vin New Net Name=NetC4_2

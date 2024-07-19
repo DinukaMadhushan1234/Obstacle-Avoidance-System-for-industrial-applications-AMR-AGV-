@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=ultrasonic NewDesignator=ultrasonic1
+Added Component: Designator=A_Outputs(JST_B4B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=A_Outputs-1
+Added Pin To Net: NetName=A1 Pin=U1-23
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=A_Outputs-2
+Added Pin To Net: NetName=A2 Pin=U1-24
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=A_Outputs-3
+Added Pin To Net: NetName=A3 Pin=U1-25
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=A_Outputs-4
+Added Pin To Net: NetName=A4 Pin=U1-26
+Added Net: Name=A4
+Added Member To Class: ClassName=Atmega Member=Component A_Outputs B4B-XH-A(LF)(SN)

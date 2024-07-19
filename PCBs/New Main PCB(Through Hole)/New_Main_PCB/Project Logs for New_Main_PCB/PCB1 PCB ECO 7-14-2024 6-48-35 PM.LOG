@@ -1,0 +1,70 @@
+Added Component: Designator=J10(691214110002)
+Add component (AddParameter): Name = "Color"; Value = "Blue, Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Brass, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "18818288"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5052mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Brass, Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "24AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "16AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "24AWG"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_DS04-254-2-01BK-SMT)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS04-254-2-01BK-SMT/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/switches/dip-switches/ds04-254-smt-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS04-254-2-01BK-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DS04-254-2-01BK-SMT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS04-254-2-01BK-SMT/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_DS04-254-2-01BK-SMT)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS04-254-2-01BK-SMT/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/switches/dip-switches/ds04-254-smt-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS04-254-2-01BK-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DS04-254-2-01BK-SMT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS04-254-2-01BK-SMT/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=12V Pin=J9-1
+Added Pin To Net: NetName=12V Pin=S1-1A
+Added Pin To Net: NetName=12V Pin=S2-1B
+Added Net: Name=12V
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=S1-1B
+Added Pin To Net: NetName=NetC5_1 Pin=U2-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=S2-1A
+Added Net: Name=NetJ10_1
+Added Member To Class: ClassName=Main Member=Component J5 MPU6050
+Added Member To Class: ClassName=Main Member=Component J10 691214110002
+Added Member To Class: ClassName=Main Member=Component S1 DS04-254-2-01BK-SMT
+Added Member To Class: ClassName=Main Member=Component S2 DS04-254-2-01BK-SMT

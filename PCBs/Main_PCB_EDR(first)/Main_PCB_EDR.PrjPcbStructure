@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Hierarchy.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Hierarchy.SchDoc|Designator=Inputs|SchDesignator=Inputs|FileName=Inputs_Outputs.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Inputs_Outputs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Hierarchy.SchDoc|Designator=Main|SchDesignator=Main|FileName=Atmega328p-AU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Atmega328p-AU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Hierarchy.SchDoc|Designator=PowerSupply|SchDesignator=PowerSupply|FileName=powerSupply.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=powerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

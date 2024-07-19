@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=A1 Pin=A_Outputs-1
+Removed Pin From Net: NetName=A2 Pin=A_Outputs-2
+Removed Pin From Net: NetName=A3 Pin=A_Outputs-3
+Removed Pin From Net: NetName=A4 Pin=A_Outputs-4
+Removed Member From Class: ClassName=Atmega Member=1
+Removed Member From Class: ClassName=Atmega Member=A_Outputs
+Removed Member From Class: ClassName=Atmega Member=C4
+Removed Member From Class: ClassName=Atmega Member=C5
+Removed Member From Class: ClassName=Atmega Member=current sensor 1
+Removed Member From Class: ClassName=Atmega Member=current sensor 2
+Removed Member From Class: ClassName=Atmega Member=H-Bridge1
+Removed Member From Class: ClassName=Atmega Member=H-Bridge2
+Removed Member From Class: ClassName=Atmega Member=U2
+Removed Member From Class: ClassName=Atmega Member=ultrasonic1
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Pin To Net: Unknown Pin: Pin A_Outputs1-1
+Add Pin To Net: Unknown Pin: Pin A_Outputs1-2
+Add Pin To Net: Unknown Pin: Pin A_Outputs1-3
+Add Pin To Net: Unknown Pin: Pin A_Outputs1-4
+Change Net Name : Old Net Name=5volt New Net Name=NetC1_2
+Added Pin To Net: NetName=Alert1 Pin=current sensor 1-3
+Added Pin To Net: NetName=Alert1 Pin=U1-13
+Added Net: Name=Alert1
+Added Pin To Net: NetName=Alert2 Pin=current sensor 2-3
+Added Pin To Net: NetName=Alert2 Pin=U1-14
+Added Net: Name=Alert2
+Change Class Name : Old Net Name=Atmega New Net Name=Main
+Added Class: Name=Hierarchy
+Added Class: Name=PowerSupply

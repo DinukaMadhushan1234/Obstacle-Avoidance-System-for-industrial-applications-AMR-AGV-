@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=P3-1
+Removed Pin From Net: NetName=5V Pin=U1-7
+Change Component Footprint: Designator=P3 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=J9 Old Footprint=691214110002 New Footprint=691214110002
+Change Net Name : Old Net Name=+12 New Net Name=+12V
+Change Net Name : Old Net Name=5V New Net Name=+5V
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U1-7
+Added Net: Name=NetP3_1
+Added Member To Class: ClassName=Main Member=Component J9 691214110002
+Added Room: Name=Main

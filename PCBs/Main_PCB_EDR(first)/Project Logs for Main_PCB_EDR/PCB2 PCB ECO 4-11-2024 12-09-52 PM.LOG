@@ -1,0 +1,155 @@
+Add Component: Footprint Not Found C1206
+Add Component: Footprint Not Found C1206
+Added Component: Designator=current sensor 1_Inputs(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=current sensor 1_Outputs(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=current sensor 2_Inputs(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=current sensor 2_Outputs(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge1_Inputs(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge1_Outputs(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge2_Inputs(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H-Bridge2_Outputs(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Power_Inputs(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Power_Outputs(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found JST_B4B-XH-A(LF)(SN)
+Add Component: Footprint Not Found XTAL_ABM11-16.000MHz-12-N1G-T
+Add Pin To Net: Unknown Pin: Pin 22pF(1)-1
+Add Pin To Net: Unknown Pin: Pin 22pF(1)-2
+Add Pin To Net: Unknown Pin: Pin 22pF(2)-1
+Add Pin To Net: Unknown Pin: Pin 22pF(2)-2
+Added Pin To Net: NetName=Netcurrent sensor 1_Inputs_1 Pin=current sensor 1_Inputs-1
+Added Pin To Net: NetName=Netcurrent sensor 1_Inputs_2 Pin=current sensor 1_Inputs-2
+Added Pin To Net: NetName=Netcurrent sensor 1_Inputs_3 Pin=current sensor 1_Inputs-3
+Added Pin To Net: NetName=Netcurrent sensor 1_Outputs_1 Pin=current sensor 1_Outputs-1
+Added Pin To Net: NetName=Netcurrent sensor 1_Outputs_2 Pin=current sensor 1_Outputs-2
+Added Pin To Net: NetName=Netcurrent sensor 1_Outputs_3 Pin=current sensor 1_Outputs-3
+Added Pin To Net: NetName=Netcurrent sensor 1_Inputs_1 Pin=current sensor 2_Inputs-1
+Added Pin To Net: NetName=Netcurrent sensor 1_Inputs_2 Pin=current sensor 2_Inputs-2
+Added Pin To Net: NetName=Netcurrent sensor 2_Inputs_3 Pin=current sensor 2_Inputs-3
+Added Pin To Net: NetName=Netcurrent sensor 1_Outputs_1 Pin=current sensor 2_Outputs-1
+Added Pin To Net: NetName=Netcurrent sensor 1_Outputs_2 Pin=current sensor 2_Outputs-2
+Added Pin To Net: NetName=Netcurrent sensor 2_Outputs_3 Pin=current sensor 2_Outputs-3
+Added Pin To Net: NetName=NetH-Bridge1_Inputs_1 Pin=H-Bridge1_Inputs-1
+Added Pin To Net: NetName=NetH-Bridge1_Inputs_2 Pin=H-Bridge1_Inputs-2
+Added Pin To Net: NetName=PWM1 Pin=H-Bridge1_Outputs-1
+Added Pin To Net: NetName=EN1 Pin=H-Bridge1_Outputs-2
+Added Pin To Net: NetName=NetH-Bridge2_Inputs_1 Pin=H-Bridge2_Inputs-1
+Added Pin To Net: NetName=NetH-Bridge2_Inputs_2 Pin=H-Bridge2_Inputs-2
+Added Pin To Net: NetName=PWM2 Pin=H-Bridge2_Outputs-1
+Added Pin To Net: NetName=EN2 Pin=H-Bridge2_Outputs-2
+Added Pin To Net: NetName=Vin Pin=Power_Inputs-1
+Added Pin To Net: NetName=GND Pin=Power_Inputs-2
+Added Pin To Net: NetName=NetPower_Outputs_1 Pin=Power_Outputs-1
+Added Pin To Net: NetName=GND Pin=Power_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic1_Outputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic2_Outputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Inputs-4
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-1
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-2
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-3
+Add Pin To Net: Unknown Pin: Pin ultrasonic3_Outputs-4
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-2
+Add Pin To Net: Unknown Pin: Pin Y?-3
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Added Member To Class: ClassName=Main Member=Component 1uF 1206GC102KAT1A
+Add Class Member: Failed to add class member : Component 22pF(1) C1206C220JGGACTU
+Add Class Member: Failed to add class member : Component 22pF(2) C1206C220JGGACTU
+Added Member To Class: ClassName=Inputs Member=Component current sensor 1_Inputs (current sensor 1) B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Outputs Member=Component current sensor 1_Outputs (current sensor 1) B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Inputs Member=Component current sensor 2_Inputs (current sensor 2) B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Outputs Member=Component current sensor 2_Outputs (current sensor 2) B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Inputs Member=Component H-Bridge1_Inputs (H-Bridge1) B2B-XH-A
+Added Member To Class: ClassName=Outputs Member=Component H-Bridge1_Outputs (H-Bridge1) B2B-XH-A
+Added Member To Class: ClassName=Inputs Member=Component H-Bridge2_Inputs (H-Bridge2) B2B-XH-A
+Added Member To Class: ClassName=Outputs Member=Component H-Bridge2_Outputs (H-Bridge2) B2B-XH-A
+Added Member To Class: ClassName=Inputs Member=Component Power_Inputs (Power) B2B-XH-A
+Added Member To Class: ClassName=Outputs Member=Component Power_Outputs (Power) B2B-XH-A
+Add Class Member: Failed to add class member : Component ultrasonic1_Inputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic1_Outputs (ultrasonic1) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic2_Inputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic2_Outputs (ultrasonic2) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic3_Inputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component ultrasonic3_Outputs (ultrasonic3) B4B-XH-A(LF)(SN)
+Add Class Member: Failed to add class member : Component Y? ABM11-16.000MHz-12-N1G-T

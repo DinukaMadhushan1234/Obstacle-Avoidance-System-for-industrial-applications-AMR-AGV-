@@ -1,0 +1,11 @@
+Added Component: Designator=C4(C1206)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C1206C334K1RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c1206c334k1recauto/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1206C334K1RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C1206C334K1RECAUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C1206C334K1RECAUTO?qs=MLItCLRbWsx8dVF2h1wzKg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=PowerSupply Member=Component C4 C1206C334K1RECAUTO

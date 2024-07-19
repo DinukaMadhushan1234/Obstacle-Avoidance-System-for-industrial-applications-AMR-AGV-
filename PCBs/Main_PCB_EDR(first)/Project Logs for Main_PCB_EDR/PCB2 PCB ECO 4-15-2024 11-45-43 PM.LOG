@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=LED Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Designator: OldDesignator=LED NewDesignator=ON
+Change Net Name : Old Net Name=NetLED_2 New Net Name=NetON_2

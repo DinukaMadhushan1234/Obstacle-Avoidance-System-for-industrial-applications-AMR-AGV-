@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Echo1 Pin=J2-2
+Removed Pin From Net: NetName=Trig1 Pin=J2-3
+Removed Pin From Net: NetName=Echo2 Pin=J4-2
+Removed Pin From Net: NetName=Trig2 Pin=J4-3
+Removed Pin From Net: NetName=Echo3 Pin=J6-2
+Removed Pin From Net: NetName=Trig3 Pin=J6-3
+Change Component Comment : Designator=J1 Old Comment= MPU6050  New Comment=MPU6050
+Change Component Designator: OldDesignator=J1 NewDesignator=J5
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Added Pin To Net: NetName=Trig1 Pin=J2-2
+Added Pin To Net: NetName=Echo1 Pin=J2-3
+Added Pin To Net: NetName=Trig2 Pin=J4-2
+Added Pin To Net: NetName=Echo2 Pin=J4-3
+Added Pin To Net: NetName=Trig3 Pin=J6-2
+Added Pin To Net: NetName=Echo3 Pin=J6-3
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ3_2
+Added Member To Class: ClassName=Main Member=Component J3 691214110002
+Added Member To Class: ClassName=Main Member=Component J5 MPU6050

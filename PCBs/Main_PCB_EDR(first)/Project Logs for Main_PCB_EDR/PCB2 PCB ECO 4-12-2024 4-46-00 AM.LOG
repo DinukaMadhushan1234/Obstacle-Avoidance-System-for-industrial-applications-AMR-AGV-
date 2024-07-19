@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=MISO Pin=J1-1
+Removed Pin From Net: NetName=+5 Pin=J1-2
+Removed Pin From Net: NetName=SCK Pin=J1-3
+Removed Pin From Net: NetName=MOSI Pin=J1-4
+Removed Pin From Net: NetName=RESET Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Member From Class: ClassName=Main Member=J1
+Add Component: Footprint Not Found SHDR6W63P254_2X3_712X860X1000P
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-5
+Add Pin To Net: Unknown Pin: Pin J?-6
+Add Class Member: Failed to add class member : Component J? 826469-3

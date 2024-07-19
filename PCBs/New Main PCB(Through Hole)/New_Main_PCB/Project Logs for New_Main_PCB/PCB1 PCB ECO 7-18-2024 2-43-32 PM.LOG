@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Change Component Footprint: Designator=J10 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=S1 Old Footprint=SW_DS04-254-2-01BK-SMT New Footprint=SW_DS01-254-L-01BE
+Change Component Footprint: Designator=S2 Old Footprint=SW_DS04-254-2-01BK-SMT New Footprint=SW_DS01-254-L-01BE
+Change Component Comment : Designator=S1 Old Comment=DS04-254-2-01BK-SMT New Comment=DS01-254-L-01BE
+Change Component Comment : Designator=S2 Old Comment=DS04-254-2-01BK-SMT New Comment=DS01-254-L-01BE
+Change component parameters: Designator = "S1" ("S1"); Footprint = "SW_DS04-254-2-01BK-SMT"; UniqueID = "\ZHQERXBA" ("\ZHQERXBA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS01-254-L-01BE/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/switches/dip-switches/ds01-254-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "DS01-254-L-01BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DS01-254-L-01BE/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS01-254-L-01BE/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "SW_DS04-254-2-01BK-SMT"; UniqueID = "\WVERDXCO" ("\WVERDXCO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS01-254-L-01BE/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/switches/dip-switches/ds01-254-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "DS01-254-L-01BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DS01-254-L-01BE/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS01-254-L-01BE/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(C320C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C320C104M5U5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C320C104M5U5TA/KEMET/view-part/228184/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=J11(SAMTEC-BCS-106-X-S-TE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SAMTEC-BCS-106-X-S-TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_FSM8JH)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSM8JH/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM8JH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM8JH/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=Trig1 Pin=J11-2
+Added Pin To Net: NetName=Echo1 Pin=J11-3
+Added Pin To Net: NetName=+5V Pin=J11-4
+Added Pin To Net: NetName=GND Pin=J11-6
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R1-2
+Added Pin To Net: NetName=NetC6_2 Pin=S3-1
+Added Pin To Net: NetName=NetC6_2 Pin=U1-1
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=Main Member=Component C6 C320C104M5U5TA
+Added Member To Class: ClassName=Main Member=Component J11 SAMTEC-BCS-106-X-S-TE
+Added Member To Class: ClassName=Main Member=Component S3 FSM8JH

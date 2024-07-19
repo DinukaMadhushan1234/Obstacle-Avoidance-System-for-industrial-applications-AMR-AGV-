@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Main Member=R1
+Added Component: Designator=LED(WL-SMCW_0805_150080xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "60mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "29717782"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "645nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED-1
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=NetLED_2 Pin=R1-1
+Added Net: Name=NetLED_2
+Added Member To Class: ClassName=PowerSupply Member=Component C1 GRM31C5C2A104JA01L
+Added Member To Class: ClassName=PowerSupply Member=Component LED 150080SS75000
+Added Member To Class: ClassName=Main Member=Component R2 ERA8AEB103V

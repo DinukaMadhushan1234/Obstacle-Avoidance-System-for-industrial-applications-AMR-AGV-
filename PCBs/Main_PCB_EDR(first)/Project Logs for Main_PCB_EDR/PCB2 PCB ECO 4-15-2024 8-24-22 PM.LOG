@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=22pF NewDesignator=22pF(1)
+Change Component Designator: OldDesignator=22pF NewDesignator=22pF(2)
+Change Component Designator: OldDesignator=Digital NewDesignator=D
+Added Component: Designator=Power(5V)(JST_B2B-XH-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=Power(5V)-1
+Added Pin To Net: NetName=GND Pin=Power(5V)-2
+Added Member To Class: ClassName=Main Member=Component 22pF(2) C1206C220JGGACTU
+Added Member To Class: ClassName=Main Member=Component J1 87911-0611
+Added Member To Class: ClassName=Inputs Member=Component Power(5V) B2B-XH-A

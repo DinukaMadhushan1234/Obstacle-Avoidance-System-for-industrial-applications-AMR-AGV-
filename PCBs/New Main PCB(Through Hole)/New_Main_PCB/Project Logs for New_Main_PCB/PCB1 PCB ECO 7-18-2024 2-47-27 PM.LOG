@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J11-1
+Removed Pin From Net: NetName=Trig1 Pin=J11-2
+Removed Pin From Net: NetName=Echo1 Pin=J11-3
+Removed Pin From Net: NetName=+5V Pin=J11-4
+Removed Pin From Net: NetName=GND Pin=J11-6
+Change Component Footprint: Designator=J11 Old Footprint=SAMTEC-BCS-106-X-S-TE New Footprint=SAMTEC_ESQ-106-59-G-S
+Change Component Comment : Designator=J11 Old Comment=SAMTEC-BCS-106-X-S-TE New Comment=ESQ-106-59-G-S
+Change component parameters: Designator = "J11" ("J11"); Footprint = "SAMTEC-BCS-106-X-S-TE"; UniqueID = "\GNSDFHRJ" ("\GNSDFHRJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESQ-106-59-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J11-01
+Added Pin To Net: NetName=Trig1 Pin=J11-02
+Added Pin To Net: NetName=Echo1 Pin=J11-03
+Added Pin To Net: NetName=+5V Pin=J11-04
+Added Pin To Net: NetName=GND Pin=J11-06

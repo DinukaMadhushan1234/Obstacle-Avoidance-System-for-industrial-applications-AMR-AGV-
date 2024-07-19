@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=1 NewDesignator=16MHz
+Change Component Designator: OldDesignator=A/D1 NewDesignator=A/D
+Change Component Designator: OldDesignator=D1 NewDesignator=Digital
+Change Net Name : Old Net Name=Net1_1 New Net Name=Net16MHz_1
+Change Net Name : Old Net Name=Net1_3 New Net Name=Net16MHz_3
+Change Net Name : Old Net Name=NetA/D1_1 New Net Name=NetA/D_1
+Change Net Name : Old Net Name=NetA/D1_2 New Net Name=NetA/D_2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetDigital_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetDigital_2
+Change Net Name : Old Net Name=NetD1_3 New Net Name=NetDigital_3

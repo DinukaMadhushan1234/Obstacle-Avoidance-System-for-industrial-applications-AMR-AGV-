@@ -1,0 +1,16 @@
+Added Component: Designator=J1(879110611)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/879/87911/879110611_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "87911-0611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-87911-0611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/87911-0611?qs=vTUKd8r8%252BfEYOBWrgoJ4qQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=SCK Pin=J1-3
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=RESET Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Member To Class: ClassName=Main Member=Component J1 87911-0611

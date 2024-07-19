@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=NetPower1_1 New Net Name=NetPower(12V)_1
+Added Member To Class: ClassName=PowerSupply Member=Component C1 GRM31C5C2A104JA01L
