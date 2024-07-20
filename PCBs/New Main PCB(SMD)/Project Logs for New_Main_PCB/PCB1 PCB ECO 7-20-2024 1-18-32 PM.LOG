@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=J14 Old Footprint=691214110002 New Footprint=691214110002
+Change Component Footprint: Designator=Y1 Old Footprint=CX2016DB16000D0FLNCC New Footprint=WE-XTAL_CFPX-180
+Change Component Comment : Designator=Y1 Old Comment=CX2016DB16000D0FLNCC New Comment=830072604
+Change Managed Component Library Link : Designator=Y1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=613D39E9-2F9C-41FF-BE9B-DDADB1C2CB88 Old RevisionGUID= New RevisionGUID=BBF9353A-1746-47AE-AB6A-DE34F83C36AC
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "CX2016DB16000D0FLNCC"; UniqueID = "\WJULIYPS" ("\WJULIYPS")
+Change component parameters (AddParameter): Name = "Frequency"; Value = "25MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "116876517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(WE-XTAL_CFPX-180)
+Add component (AddParameter): Name = "Frequency"; Value = "25MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "116876517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Main Member=Component Y? 830072604
