@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\User\Documents\GitHub\Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-\PCBs\New Main PCB(SMD)\PCB1.PcbDoc
+PCB File : D:\4th sem\EDR\GITHUB folder\Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-\PCBs\New Main PCB(SMD)\PCB1.PcbDoc
 Date     : 7/20/2024
-Time     : 5:48:05 PM
+Time     : 6:42:33 PM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
@@ -91,4 +91,4 @@ Rule Violations :0
 
 Violations Detected : 13
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
