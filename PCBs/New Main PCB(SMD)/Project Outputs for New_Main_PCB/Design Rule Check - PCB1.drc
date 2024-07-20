@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\4th sem\EDR\GITHUB folder\Obstacle-Avoidance-System-for-industrial-applications-AMR-AGV-\PCBs\New Main PCB(SMD)\PCB1.PcbDoc
 Date     : 7/20/2024
-Time     : 6:42:33 PM
+Time     : 11:50:52 PM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
@@ -30,13 +30,13 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=3mm) (Max=4mm) (Preferred=4mm) (InNet('NetJ1_2'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mm) (Max=6mm) (Preferred=5mm) (InNet('NetJ6_1'))
+Processing Rule : Width Constraint (Min=4mm) (Max=6mm) (Preferred=5mm) (InNet('NetJ5_2'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=3mm) (Max=4mm) (Preferred=4mm) (InNet('NetJ2_1'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mm) (Max=6mm) (Preferred=5mm) (InNet('NetJ5_1'))
+Processing Rule : Width Constraint (Min=4mm) (Max=6mm) (Preferred=5mm) (InNet('NetJ6_2'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=3mm) (Max=4mm) (Preferred=4mm) (InNet('NetJ2_2'))

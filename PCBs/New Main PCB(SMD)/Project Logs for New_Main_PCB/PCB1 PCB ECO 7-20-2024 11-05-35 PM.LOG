@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=J1 Old Footprint=691214110002 New Footprint=691137710002
+Change Component Footprint: Designator=J2 Old Footprint=691214110002 New Footprint=691137710002
+Change Component Comment : Designator=J1 Old Comment=691214110002 New Comment=691137710002
+Change Component Comment : Designator=J2 Old Comment=691214110002 New Comment=691137710002
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=57BBA258-B4B2-4518-AA87-22EF9E9D5922 New ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D Old RevisionGUID=62586F46-661B-4C5B-B5D8-AFD4E09DC471 New RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=57BBA258-B4B2-4518-AA87-22EF9E9D5922 New ItemGUID=A718961D-D9A4-49FC-B3D9-CF18923FC27D Old RevisionGUID=62586F46-661B-4C5B-B5D8-AFD4E09DC471 New RevisionGUID=7D02DB71-49F4-411D-87CF-223BD80F4EFD
+Change component parameters: Designator = "J1" ("J1"); Footprint = "691214110002"; UniqueID = "\UEFSUYMU" ("\UEFSUYMU")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "691214110002"; UniqueID = "\PWNAUZTO" ("\PWNAUZTO")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
