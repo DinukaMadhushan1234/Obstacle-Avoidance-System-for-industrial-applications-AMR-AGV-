@@ -2,7 +2,6 @@
 
 Welcome to the **Obstacle Avoidance Robot** project! This robot is designed to navigate through environments autonomously by detecting and avoiding obstacles using ultrasonic sensors. Built with the ATMEL 328P-AU microcontroller, this project demonstrates a fusion of precise motor control, real-time sensor feedback, and advanced algorithmic logic.
 
-![Robot Image](path_to_your_robot_image.png)
 
 ---
 
